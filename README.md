@@ -1,4 +1,4 @@
 
 
 
-* https://Regusiki.github.io/rsschool-cv/
+* https://Regusiki.github.io/rsschool-cv/cv
